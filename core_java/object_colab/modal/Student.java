@@ -1,4 +1,4 @@
-package shs;
+package modal;
 
 public class Student{
     private String name;

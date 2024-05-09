@@ -1,4 +1,4 @@
-package shs;
+package modal;
 
 public class Subject {
     private String name;

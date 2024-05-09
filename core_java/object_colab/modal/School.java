@@ -1,4 +1,4 @@
-package core_java.array.object_colab.modal;
+package modal;
 
 public class School{
     private String name;
