@@ -1,0 +1,1 @@
+que1:-  reate 3 classes school student subject and display the result using student object
