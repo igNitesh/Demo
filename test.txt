@@ -1,2 +1,4 @@
 hello this testing file 
 day1 learing git/github
+
+Create 3 classes school student subject and display the result using student object
