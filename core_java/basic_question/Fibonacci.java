@@ -1,4 +1,4 @@
-package core_java.basic;
+package core_java.basic_question;
 
 class Fibonacci {
     public static int  fs ( int a, int b , int n){

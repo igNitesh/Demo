@@ -1,4 +1,4 @@
-package core_java.basic;
+package core_java.basic_question;
 
 public class ternary_op {
     public static void main(String[] args) {
