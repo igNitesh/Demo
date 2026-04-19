@@ -1,16 +1,20 @@
-import java.util.Scanner;
-
-
+/**
+ * Main entry point for the Demo project.
+ * Demonstrates basic string manipulation operations in Java.
+ */
 public class Main {
+    
     public static void main(String[] args) {
-
-     String s = new String("hello");
-     String s2 = "worlfjjeefhhkhd";
-     String s3 = s.replace('e', 'a');
-     s2.trim();
-     System.out.println(s2.substring(2, 6));
+        // Demonstrate string creation and manipulation
+        String originalString = new String("hello");
+        String secondString = "worlfjjeefhhkhd";
         
-
-
+        // Replace 'e' with 'a' in the original string
+        String modifiedString = originalString.replace('e', 'a');
+        System.out.println("Modified string: " + modifiedString);
+        
+        // Extract substring from index 2 to 6
+        String substring = secondString.substring(2, 6);
+        System.out.println("Substring: " + substring);
     }
 }
